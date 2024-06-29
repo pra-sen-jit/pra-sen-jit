@@ -73,3 +73,5 @@
 <div align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pra-sen-jit&theme=dracula" alt="pra-sen-jit" />
 </div>
+
+<img src="https://raw.githubusercontent.com/pra-sen-jit/pra-sen-jit/output/snake.svg" alt="Snake animation" />
