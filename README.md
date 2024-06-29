@@ -75,8 +75,8 @@
 
 <h3 align="left">My Journey:</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pra-sen-jit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pra-sen-jit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=pra-sen-jit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" alt="stats graph"  />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pra-sen-jit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=pra-sen-jit&theme=github&hide_border=false&custom_title=My%20Contribution%20Graph" alt="contribution graph" />
   <img width="395px" src="https://github-readme-streak-stats.herokuapp.com/?user=pra-sen-jit&theme=dracula" alt="pra-sen-jit" />
 </div>
