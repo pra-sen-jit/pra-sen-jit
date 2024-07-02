@@ -1,5 +1,6 @@
 ![MasterHead](media/jinx_banner.png)
-<h1 align="center">Hello 👋, Prasenjit Datta here</h1>
+
+#
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=pra-sen-jit&label=Profile%20views&color=0e75b6&style=flat" alt="pra-sen-jit" />
@@ -16,7 +17,7 @@
 </div>
 
 #
-<h3 align="left">About me:</h3>
+<h3 align="left">👩‍💻 About me:</h3>
 
 - 🔭 Currently working on **Full Stack Development**
 - 🌱 Currently learning **MERN Stack and Machine Learning**
@@ -26,7 +27,7 @@
 
 #
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📧 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/prasenjit-datta-947118258/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
@@ -41,7 +42,7 @@
 
 #
 
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">🛠 Tech Stack:</h3>
 <div align="left" style="background-color: #333;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -74,7 +75,7 @@
 
 #
 
-<h3 align="left">My Journey:</h3>
+<h3 align="left">🔥 My Journey:</h3>
 <div align="left">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=pra-sen-jit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" alt="stats graph"  />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pra-sen-jit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
@@ -85,5 +86,5 @@
 #
 
 <!--![Snake animation](https://raw.githubusercontent.com/pra-sen-jit/pra-sen-jit/output/github-contribution-grid-snake-dark.svg)-->
-<h3 align="left">Feeding:</h3>
+<h3 align="left">🐍 Feeding:</h3>
 <img src="https://raw.githubusercontent.com/pra-sen-jit/pra-sen-jit/output/snake.svg" alt="Snake animation" />
