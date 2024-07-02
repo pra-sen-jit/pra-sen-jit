@@ -44,33 +44,20 @@
 
 <h3 align="left">🛠 Tech Stack:</h3>
 <div align="left" style="background-color: #333;">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></code>
-  </a>
+  <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">-->
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="30" alt="c logo"  /></code>
   <img width="13" />
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /></code>
-  </a>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="30" alt="java logo"  /></code>
   <img width="13" />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
-  </a>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="30" alt="python logo"  /></code>
   <img width="13" />
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
-  </a>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="30" alt="html5 logo"  /></code>
   <img width="13" />
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
-  </a>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="30" alt="css3 logo"  /></code>
   <img width="13" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
-  </a>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30" alt="javascript logo"  /></code>
   <img width="13" />
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  </a>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="30" alt="react logo"  /></code>
 </div>
 
 #
