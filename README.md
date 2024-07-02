@@ -1,4 +1,4 @@
-![MasterHead](media/banner.png)
+![MasterHead](media/jinx_banner.png)
 <h1 align="center">Hello 👋, Prasenjit Datta here</h1>
 
 <div align="right">
