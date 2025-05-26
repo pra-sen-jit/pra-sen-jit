@@ -1,6 +1,6 @@
 ![MasterHead](media/jinx_banner.png)
 
-#
+---
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=pra-sen-jit&label=Profile%20views&color=0e75b6&style=flat" alt="pra-sen-jit" />
@@ -8,7 +8,7 @@
 
 <h4 align="justify">A passionate developer from Kolkata, India❤️. Currently, am a B.Tech student who enjoys building innovative solutions and contribute to open-source projects. I constantly strive to improve my problem-solving skills and learn new technologies, and hopefully will be able to make a positive impact in the industry😇</h4>
 
-#
+---
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -16,18 +16,19 @@
   </a>
 </div>
 
-#
-<h3 align="left">👩‍💻 About me:</h3>
+---
 
-- 🔭 Currently working on **Full Stack Development**
-- 🌱 Currently learning **MERN Stack and Machine Learning**
+## 👩‍💻 About me
+
+- 🔭 Currently working on `Full Stack Development` and `Machine Learning`
 - 📫 Reach me at **pr.datta.2021@gmail.com**
 - 💬 Ask me about `Frontend` or `Backend`
 - 😄 Fun fact: I play video games💻 (PC only😉)
 
-#
+---
 
-<h3 align="left">📧 Connect with me:</h3>
+## 📧 Connect with me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/prasenjit-datta-947118258/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
@@ -40,9 +41,10 @@
   </a>
 </div>
 
-#
+---
 
-<h3 align="left">🛠 Tech Stack:</h3>
+## 🛠 Tech Stack
+
 <div align="left" style="background-color: #333;">
   <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">-->
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="30" alt="c logo"  /></code>
@@ -57,12 +59,21 @@
   <img width="13" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30" alt="javascript logo"  /></code>
   <img width="13" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="30" alt="typescript logo"  /></code>
+  <img width="13" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="30" alt="react logo"  /></code>
+  <img width="13" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="30" alt="nodejs logo"  /></code>
+  <img width="13" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="30" alt="nextjs logo"  /></code>
+  <img width="13" />
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" height="30" alt="tailwind logo"  /></code>
 </div>
 
-#
+---
 
-<h3 align="left">🔥 My Journey:</h3>
+## 🔥 My Journey
+
 <div align="left">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=pra-sen-jit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" alt="stats graph"  />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pra-sen-jit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
@@ -70,8 +81,9 @@
   <img width="395px" src="https://github-readme-streak-stats.herokuapp.com/?user=pra-sen-jit&theme=dracula" alt="pra-sen-jit" />
 </div>
 
-#
+---
 
 <!--![Snake animation](https://raw.githubusercontent.com/pra-sen-jit/pra-sen-jit/output/github-contribution-grid-snake-dark.svg)-->
-<h3 align="left">🐍 Feeding:</h3>
+## 🐍 Feeding
+
 <img src="https://raw.githubusercontent.com/pra-sen-jit/pra-sen-jit/output/snake.svg" alt="Snake animation" />
